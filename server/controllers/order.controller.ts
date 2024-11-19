@@ -139,13 +139,13 @@ export const newPayment = CatchAsyncError(
         currency: "USD",
         description: "E-learning course services",
         metadata: {
-          company: "E-Learning",
+          company: "AdeptLearn",
         },
         automatic_payment_methods: {
           enabled: true,
         },
         shipping: {
-          name: "Harmik Lathiya",
+          name: "Abc QRP",
           address: {
             line1: "510 Townsend St",
             postal_code: "98140",
